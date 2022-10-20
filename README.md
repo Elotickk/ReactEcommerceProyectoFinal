@@ -38,7 +38,7 @@ npm install
 Nos posicionamos en la carpeta
 
 ```
-cd 
+cd CTA-GAMING-REACT-ECOMMERCE
 ```
 
 Iniciamos la app
