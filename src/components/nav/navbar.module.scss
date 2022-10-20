@@ -1,0 +1,21 @@
+.logoKiosko{
+
+    transition: all .2s;
+
+    &:hover{
+
+        transform: scale(1.05);
+
+    }
+    
+}
+
+.textoPrueba{
+
+    height: 200px;
+
+}
+
+.active{
+    color: blue;
+}

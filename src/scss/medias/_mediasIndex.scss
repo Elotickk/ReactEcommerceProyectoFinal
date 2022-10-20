@@ -1,0 +1,193 @@
+//Medias para las cards de mis productos
+
+@media (max-width:718px) {
+
+    .contenedorTarjetas {
+
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+}
+
+//Medias para las cards de mis clientes
+@media (max-width:1005px) {
+
+    .tarjetasContainer {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+}
+
+//Medias queries para los iconos de las redes sociales de mi footer
+@media (min-width:280px) and (max-width:320px) {
+
+    .enla {
+
+        i {
+
+            margin-top: -3px;
+
+        }
+
+        a {
+
+            width: 50px;
+            height: 50px;
+
+
+
+        }
+
+
+
+    }
+
+
+
+}
+
+//Medias para mi cartWidget
+@media (min-width:280px) and (max-width:991px) {
+
+    .containerCarrito {
+
+        width: 5%;
+        display: flex;
+        justify-content: flex-start;
+
+        .sizeCart {
+            font-size: 25px;
+            color: white;
+        }
+    }
+
+
+}
+
+//Medias para los detalles de mis productos
+@media (max-width:1104px){
+
+    .wrapper{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 210px;
+        margin-top: 200px;
+
+    }
+
+    .botonAgregar{
+
+        margin-bottom: 200px;
+
+    }
+
+
+}
+
+//Medias para "cart" cuando finalizamos la compra
+
+@media(max-width:688px){
+
+    .containerMedias{
+
+        .containerFlex{
+
+            .containerCompras{
+    
+                width: 16rem;
+    
+                .flexUbicar{
+                    display: flex;
+                    flex-direction: column;
+    
+    
+                }
+            }
+    
+        }
+
+    }
+
+}
+
+@media(max-width:600px){
+
+    .codReferencia{
+
+        .graciasCompra{
+
+            height: 350px;
+
+        }
+
+        .codigo__Compra{
+            width: 40rem;
+        }
+
+    }
+
+}
+
+@media(min-width:400px) and (max-width:600px){
+
+    .codReferencia{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        .graciasCompra{
+
+            height: 300px;
+
+        }
+
+        .codigo__Compra{
+
+            font-size: 25px;
+            width: 400px;
+        }
+
+    }
+
+
+}
+
+@media(min-width:280px) and (max-width:396px){
+
+    .codReferencia{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        .graciasCompra{
+
+            height: 250px;
+
+        }
+
+        .codigo__Compra{
+
+            font-size: 20px;
+            width: 260px;
+        }
+
+    }
+
+
+}

@@ -1,0 +1,57 @@
+//Estilos para las cards de los clientes
+.container{
+
+
+    .tarj{
+    
+        border:none;
+        background-color: white;
+        margin: 0 20px;
+        
+        
+    
+        h5{
+    
+            font-weight: bolder;
+    
+        }
+    
+        span{
+    
+            font-weight: bolder;
+    
+        }
+    
+        .user-image{
+    
+            img{
+    
+                height: 110px;
+    
+            }
+    
+        }
+    }
+
+}
+
+
+
+.user-content{
+
+    p{
+        margin-top:5px;
+        font-size:12px;
+        font-weight: bolder;
+    }
+
+} 
+
+
+.ratings{
+
+    i{
+        color: orange;
+    }
+
+}

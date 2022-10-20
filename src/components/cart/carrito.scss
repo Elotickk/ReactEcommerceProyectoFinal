@@ -1,0 +1,199 @@
+//Estilos para el carrito
+
+.carritoTitulo {
+
+    font-weight: bolder;
+
+}
+
+
+//Carrito compra productos
+
+.containerFlex {
+
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+
+    .containerCompras {
+
+        background-color: white;
+        width: 51rem;
+        padding: 10px;
+
+        .flexUbicar {
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .tituloCompra {
+
+                font-weight: bolder;
+
+            }
+
+            .productosCarrito {
+
+                height: 100px;
+
+            }
+
+            .precioTitulo {
+
+                font-weight: bolder;
+
+            }
+
+            .stockTitulo {
+
+                font-weight: bolder;
+
+            }
+
+            .tituloCategoria {
+
+                font-weight: bolder;
+
+            }
+
+        }
+
+    }
+
+}
+
+.containerButton {
+    
+    margin-top: 25px;
+
+    .contenedorBotones{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+    .clearCart {
+
+
+        font-weight: bolder;
+        padding: 5px;
+        width: 6.3rem;
+        margin-top: 15px;
+        border-radius: 12px 12px;
+        transition: all .2s;
+        font-size: 17px;
+        order: 2;
+
+
+        &:hover {
+
+            background-color: black;
+            color: white;
+
+        }
+
+
+    }
+
+    .botonCheckout{
+
+        font-weight: bolder;
+        padding: 5px;
+        width: 6.3rem;
+        margin-top: 15px;
+        border-radius: 12px 12px;
+        transition: all .2s;
+        font-size: 17px;
+        order: 1;
+
+        &:hover {
+
+            background-color: black;
+            color: white;
+
+        }
+
+    }
+
+    .totalPrice{
+
+        order: 3;
+
+    }
+
+}
+
+.clearButton {
+
+    font-weight: bolder;
+    font-size: 4vh;
+    border: none;
+    background-color: white;
+    margin: 0 10px;
+
+}
+
+.flexVacio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+
+    .cartVacio {
+
+        height: 20rem;
+        margin-top: 15px;
+
+    }
+
+    .linkCondition {
+
+        color: black;
+        font-weight: bolder;
+        transition: all .2s;
+        margin-top: 18px;
+        font-size: 17px;
+        text-decoration: none;
+
+        &:hover {
+
+            color: white;
+
+        }
+
+
+
+    }
+
+}
+
+.codReferencia{
+
+    h1{
+        font-weight: bolder;
+        font-size: 35px;
+    }
+
+
+}
+
+.linkDesea{
+
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+    transition: all .3s;
+
+    &:hover{
+
+        color: white;
+
+    }
+
+}
