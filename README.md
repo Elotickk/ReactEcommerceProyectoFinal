@@ -49,11 +49,11 @@ npm start
 
 ## Deploy 🌐
 
-<a href="http://kiosko-amadeo-coder.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png" alt="vercel" width="140" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/17/dd/84/17dd84fe75c8ba1ca26aa18b3570b65b.png" alt="vercel" width="140" height="40"/> 
 </a>
 
 ## Contacto 👋
 
-- Linkedin: [Exequiel Portero](https://www.linkedin.com/in/exequiel-portero/)
-- Email: eportero421@gmail.com
+- Linkedin: [Exequiel Portero](https://www.linkedin.com/in/gonzaloromero-/)
+- Email: gonzalorom2001@gmail.com
 
