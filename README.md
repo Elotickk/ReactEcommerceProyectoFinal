@@ -3,7 +3,7 @@
 
 ## ¿De que se trata mi proyecto? 🚀
 
-CTA GAMING es una tienda electronica situado en la provincia de San Fernando del Valle de Catamarca, mi idea principal fue hacer un ecommerce para poder efectuar la compra de productos.
+CTA GAMING es una tienda electronica ficticia situado en la provincia de San Fernando del Valle de Catamarca, mi idea principal fue hacer un ecommerce para poder efectuar la compra de productos.
 
 ## Tecnologias Utilizadas ⚙️
 
