@@ -7,7 +7,7 @@ CTA GAMING es una tienda electronica ficticia situado en la provincia de San Fer
 
 ## Tecnologias Utilizadas ⚙️
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,bootstrap,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,react,git)
 
 ## Librerias utilizadas 📋
 
