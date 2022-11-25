@@ -5,6 +5,8 @@
 
 CTA GAMING es una tienda electronica ficticia situado en la provincia de San Fernando del Valle de Catamarca, mi idea principal fue hacer un ecommerce para poder efectuar la compra de productos.
 
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Elotickk/ReactEcommerceProyectoFinal/master/./img/banner.png)  
+  
 ## Tecnologias Utilizadas ⚙️
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,react,git)
