@@ -19,7 +19,7 @@ CTA GAMING es una tienda electronica situado en la provincia de San Fernando del
 
 ## Base de datos 👩‍💻
 
-- [Firebase](https://skillicons.dev/icons?i=firebase)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ## Pasos para iniciar el proyecto 🛠️
 
