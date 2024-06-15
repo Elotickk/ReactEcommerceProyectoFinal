@@ -20,7 +20,7 @@ const CardCliente = () => {
 
                         <div className="user-image">
 
-                            <img src={clint} className="rounded-circle" width="80"/>
+                            <img alt='img' src={clint} className="rounded-circle" width="80"/>
 
                         </div>
 
@@ -49,7 +49,7 @@ const CardCliente = () => {
 
                         <div className="user-image">
 
-                            <img src={matt} className="rounded-circle" width="80"/>
+                            <img alt='img' src={matt} className="rounded-circle" width="80"/>
 
                         </div>
 
@@ -80,7 +80,7 @@ const CardCliente = () => {
 
                         <div className="user-image">
 
-                            <img src={diCaprio} className="rounded-circle" width="80"/>
+                            <img alt='img' src={diCaprio} className="rounded-circle" width="80"/>
 
                         </div>
 

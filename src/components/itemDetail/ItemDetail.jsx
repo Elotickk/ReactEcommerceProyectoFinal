@@ -34,7 +34,8 @@ const ItemDetail = ({product}) => {
 
       <div className="wrapper">
         <div className="product-img">
-          <img src={product.img} className="imgProducto"></img>
+          <img alt='imgpr' src={product.img} className="imgProducto"></img>
+          <img alt='imgproducto' src={product.img} className="imgProducto"></img>
         </div>
         <div className="product-info">
           <div className="product-text">

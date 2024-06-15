@@ -22,7 +22,6 @@ const CartProvider = ({children}) => {
 
     }
 
- 
     
     const clearCart = () => {
 
@@ -55,7 +54,7 @@ const CartProvider = ({children}) => {
 
       const carritoActualizado = cart.map((prod) =>{ 
 
-         
+        
         if (prod.id === item.id) { 
 
           const productoActualizado = {  
