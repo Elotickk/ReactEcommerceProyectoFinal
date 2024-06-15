@@ -14,21 +14,21 @@ const Cards = () => {
       <Link to="/category/procesador" className='nav-link fw-bold text-black link'>
       <div className="tarjeta animate__animated animate__bounceIn">
         
-        <h2><img src={imagenCpu} alt="" className='imagenEstilo imagenEstiloCPU'/>CPU</h2>
+        <h2><img src={imagenCpu} alt="img" className='imagenEstilo imagenEstiloCPU'/>CPU</h2>
 
       </div>
       </Link>
       <Link to="/category/Ram" className='nav-link fw-bold text-black link'>
       <div className="tarjeta animate__animated animate__bounceIn">
 
-        <h2><img src={imagenRam} alt="" className='imagenEstilo'/>Ram</h2>
+        <h2><img src={imagenRam} alt="img" className='imagenEstilo'/>Ram</h2>
 
       </div>
       </Link>
       <Link to="/category/gpu" className='nav-link fw-bold text-black link'>
       <div className="tarjeta animate__animated animate__bounceIn">
 
-        <h2><img src={imagenGpu} alt="" className='imagenEstilo imagenVariedad'/>GPU</h2>
+        <h2><img src={imagenGpu} alt="img" className='imagenEstilo imagenVariedad'/>GPU</h2>
 
       </div>
       </Link>

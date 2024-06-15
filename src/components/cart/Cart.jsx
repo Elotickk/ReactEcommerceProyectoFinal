@@ -33,7 +33,7 @@ const Cart = () => {
     if(idCompra){
 
       return <div className='codReferencia'>
-        <img className='graciasCompra' src={gracias} alt="" />
+        <img className='graciasCompra' src={gracias} alt="compra" />
         <h1 className='codigo__Compra'>Tu código de referencia es: {idCompra} </h1>
         <Link to="/tienda" className='linkDesea'>
         
